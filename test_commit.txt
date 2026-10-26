@@ -1,0 +1,3 @@
+Title: Conflict Testing File
+Original Line: This is the original content from base.
+Description: Testing merge conflicts between branches.
